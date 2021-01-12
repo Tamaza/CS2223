@@ -1,11 +1,10 @@
 ReadMe Irakli Grigolia
 
-My program   prints out the elapsed time  after each module is completed.(After each function call ).Also prints out the statistics for seven different sized list which I generated randomly.ALso it prints out the time elapdes after each module is completed.(After each function call )
+My program   prints out the elapsed time  after each module is completed.(After each function call ).Also prints out the statistics for seven different sized list which I generated randomly.ALso it prints out the time elapsed after each module is completed.(After each function call )
 I have a function List_generator(num_List) to do this.
 Also there is a function called ConverttoList() which reads input from file named sample_queue.txt and converts it to a list.Then I have fucntions HeapTester() and ListTester()
 to record time after reading text file and doing manipulations.
 
-In order to run the  program just press f5 , and you have to have text document called sample_queue.txt filled with some numbers.
 
 Also here I add my statistics that I got after timing 7 different lists and sameple_queue.txt:
 
